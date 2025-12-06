@@ -20,5 +20,7 @@ O programa irá gerar e validar 3 senhas automaticamente:
 #Exemplos
 
 Senha Validada 1: aB3$kL9@xP
+
 Senha Validada 2: 9#mP2&qL!z
+
 Senha Validada 3: X7@pL$3mQq
